@@ -1,4 +1,4 @@
-#Sorting Algorithm Performance Comparison
+*Sorting Algorithm Performance Comparison*
 
 Overview
 This project compares the performance of three common sorting algorithms: Merge Sort, Quick Sort, and Heap Sort. The comparison is based on the number of inputs and the execution time of each algorithm in C.
